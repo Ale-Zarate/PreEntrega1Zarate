@@ -1,0 +1,26 @@
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-categories li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.cart-widget {
+  position: relative;
+}
+
+.cart-widget .cart-notification {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background-color: red;
+  color: white;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 12px;
+}
